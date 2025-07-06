@@ -7,6 +7,7 @@
  - VS Code;
  - HTML5;
  - CSS3;
+ - C#;
  - JavaScript.
 
 ---
