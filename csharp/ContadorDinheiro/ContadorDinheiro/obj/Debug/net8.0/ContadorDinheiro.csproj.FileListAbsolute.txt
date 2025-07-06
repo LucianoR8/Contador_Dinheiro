@@ -1,0 +1,15 @@
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\bin\Debug\net8.0\ContadorDinheiro.exe
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\bin\Debug\net8.0\ContadorDinheiro.deps.json
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\bin\Debug\net8.0\ContadorDinheiro.runtimeconfig.json
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\bin\Debug\net8.0\ContadorDinheiro.dll
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\bin\Debug\net8.0\ContadorDinheiro.pdb
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.AssemblyInfoInputs.cache
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.AssemblyInfo.cs
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.csproj.CoreCompileInputs.cache
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.sourcelink.json
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.dll
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\refint\ContadorDinheiro.dll
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.pdb
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ContadorDinheiro.genruntimeconfig.cache
+C:\Documentos\codigos_github\contador_dinheiro\csharp\ContadorDinheiro\ContadorDinheiro\obj\Debug\net8.0\ref\ContadorDinheiro.dll
