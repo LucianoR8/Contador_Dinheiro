@@ -11,4 +11,4 @@
  - JavaScript.
 
 ---
-Feito por Luciano Ribeiro (https://github.com/LucianoR8)
+Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
