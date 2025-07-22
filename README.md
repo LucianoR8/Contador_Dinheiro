@@ -1,14 +1,33 @@
-# Contador de Dinheiro
+# Separador de dinheiro
 
-## Nesse repositório, será desenvolvida uma aplicação que ao o usuário informar um valor, o código irá mostrar na tela a quantidade suficiente de cedúlas e moedas necessárias para atingir tal valor
+## Sobre:
 
-## Será usada as seguintes tecnologias:
+A aplicação em desenvolvimento tem como objetivo separar eum valor informado pelo usuário em cédulas e moedas, facilitando o troco ou organização de valores. Útil em situações do dia a dia em que exigem cálculo rápido.
 
- - VS Code;
- - HTML5;
- - CSS3;
- - C#;
- - JavaScript.
+### Tecnologias utilizadas:
+
+ - C#
+ - .NET 8.0
+ - Console Application
+
+### Como funciona:
+
+***Entrada de dados***
+
+[Imagem]
+
+***Processamento de Dados***
+
+[explicação]
+
+***Saída de Dados***
+
+[imagem]
+
+### Execução:
+Após clonar esse repositório, abra o editor de código(sugestão: Visual Studio 2022) e carregue o arquivo 'ContadorDinheiro.sln' como uma solução.
+
+Para executar a aplicação sem depuração, pressione as teclas "Ctrl+F5" e a aplicação estará em funcionamento.
 
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
