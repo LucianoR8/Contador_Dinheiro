@@ -29,5 +29,13 @@ Após clonar esse repositório, abra o editor de código(sugestão: Visual Studi
 
 Para executar a aplicação sem depuração, pressione as teclas "Ctrl+F5" e a aplicação estará em funcionamento.
 
+### Código-Fonte:
+
+ - [Separador de dinheiro](https://github.com/LucianoR8/separador-dinheiro/blob/master/csharp/ContadorDinheiro/ContadorDinheiro/Program.cs)
+
+### Melhorias futuras:
+
+ - Adaptar o código em formato web, assim tornando o uso da aplicação mais intuitiva.
+
 ---
 Feito por [Luciano Ribeiro](https://github.com/LucianoR8)
